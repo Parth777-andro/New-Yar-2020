@@ -101,149 +101,74 @@
 	  ],
   "landscape":[
     
-      "https://raw.githubusercontent.com/Parth777-andro/Diwali/main/Pic/l1.png",
-    "https://raw.githubusercontent.com/Parth777-andro/Diwali/main/Pic/l2.png",
-      "https://raw.githubusercontent.com/Parth777-andro/Diwali/main/Pic/l3.png",
-      "https://raw.githubusercontent.com/Parth777-andro/Diwali/main/Pic/l4.png",
+ "https://raw.githubusercontent.com/Parth777-andro/New-Yar-2020/main/Pic/l/1.png",
+    "https://raw.githubusercontent.com/Parth777-andro/New-Yar-2020/main/Pic/l/2.png",
+      "https://raw.githubusercontent.com/Parth777-andro/New-Yar-2020/main/Pic/l/3.png",
+      "https://raw.githubusercontent.com/Parth777-andro/New-Yar-2020/main/Pic/l/4.png",
 
-    "https://raw.githubusercontent.com/Parth777-andro/Diwali/main/Pic/l5.png",
+    "https://raw.githubusercontent.com/Parth777-andro/New-Yar-2020/main/Pic/l/5.png",
 
-      "https://raw.githubusercontent.com/Parth777-andro/Diwali/main/Pic/l6.png",
-"https://raw.githubusercontent.com/Parth777-andro/Diwali/main/Pic/l7.png",
+      "https://raw.githubusercontent.com/Parth777-andro/New-Yar-2020/main/Pic/l/6.png",
+"https://raw.githubusercontent.com/Parth777-andro/New-Yar-2020/main/Pic/l/7.png",
 
-    "https://raw.githubusercontent.com/Parth777-andro/Diwali/main/Pic/l8.png",
+    "https://raw.githubusercontent.com/Parth777-andro/New-Yar-2020/main/Pic/l/8.png",
 
-      "https://raw.githubusercontent.com/Parth777-andro/Diwali/main/Pic/l9.png",
+      "https://raw.githubusercontent.com/Parth777-andro/New-Yar-2020/main/Pic/l/9.png",
 
-      "https://raw.githubusercontent.com/Parth777-andro/Diwali/main/Pic/l10.png",
+      "https://raw.githubusercontent.com/Parth777-andro/New-Yar-2020/main/Pic/l/10.png",
 
-    "https://raw.githubusercontent.com/Parth777-andro/Diwali/main/Pic/l11.png",
+    "https://raw.githubusercontent.com/Parth777-andro/New-Yar-2020/main/Pic/l/11.png",
 
-      "https://raw.githubusercontent.com/Parth777-andro/Diwali/main/Pic/l12.png",
+      "https://raw.githubusercontent.com/Parth777-andro/New-Yar-2020/main/Pic/l/12.png",
 
-      "https://raw.githubusercontent.com/Parth777-andro/Diwali/main/Pic/l13.png",
+      "https://raw.githubusercontent.com/Parth777-andro/New-Yar-2020/main/Pic/l/13.png",
 
-    "https://raw.githubusercontent.com/Parth777-andro/Diwali/main/Pic/l14.png",
+    "https://raw.githubusercontent.com/Parth777-andro/New-Yar-2020/main/Pic/l/14.png",
 
-      "https://raw.githubusercontent.com/Parth777-andro/Diwali/main/Pic/l15.png",
-"https://raw.githubusercontent.com/Parth777-andro/Diwali/main/Pic/l16.png",
-    "https://raw.githubusercontent.com/Parth777-andro/Diwali/main/Pic/l17.png",
-      "https://raw.githubusercontent.com/Parth777-andro/Diwali/main/Pic/l18.png",
-      "https://raw.githubusercontent.com/Parth777-andro/Diwali/main/Pic/l19.png",
+      "https://raw.githubusercontent.com/Parth777-andro/New-Yar-2020/main/Pic/l/15.png",
+"https://raw.githubusercontent.com/Parth777-andro/New-Yar-2020/main/Pic/l/16.png",
+    "https://raw.githubusercontent.com/Parth777-andro/New-Yar-2020/main/Pic/l/17.png",
+      "https://raw.githubusercontent.com/Parth777-andro/New-Yar-2020/main/Pic/l/18.png",
+      "https://raw.githubusercontent.com/Parth777-andro/New-Yar-2020/main/Pic/l/19.png",
 
-    "https://raw.githubusercontent.com/Parth777-andro/Diwali/main/Pic/l20.png",
+    "https://raw.githubusercontent.com/Parth777-andro/New-Yar-2020/main/Pic/l/20.png",
 
-      "https://raw.githubusercontent.com/Parth777-andro/Diwali/main/Pic/l21.png",
+      "https://raw.githubusercontent.com/Parth777-andro/New-Yar-2020/main/Pic/l/21.png",
 
-    "https://raw.githubusercontent.com/Parth777-andro/Diwali/main/Pic/l22.png",
+    "https://raw.githubusercontent.com/Parth777-andro/New-Yar-2020/main/Pic/l/22.png",
 
-      "https://raw.githubusercontent.com/Parth777-andro/Diwali/main/Pic/l23.png",
+      "https://raw.githubusercontent.com/Parth777-andro/New-Yar-2020/main/Pic/l/23.png",
 
-      "https://raw.githubusercontent.com/Parth777-andro/Diwali/main/Pic/l24-min.png",
+      "https://raw.githubusercontent.com/Parth777-andro/New-Yar-2020/main/Pic/l/24-min.png",
 
-    "https://raw.githubusercontent.com/Parth777-andro/Diwali/main/Pic/l25.png",
+    "https://raw.githubusercontent.com/Parth777-andro/New-Yar-2020/main/Pic/l/25.png",
 
-      "https://raw.githubusercontent.com/Parth777-andro/Diwali/main/Pic/l26.png",
+      "https://raw.githubusercontent.com/Parth777-andro/New-Yar-2020/main/Pic/l/26.png",
 
-      "https://raw.githubusercontent.com/Parth777-andro/Diwali/main/Pic/l27.png",
+      "https://raw.githubusercontent.com/Parth777-andro/New-Yar-2020/main/Pic/l/27.png",
 
-    "https://raw.githubusercontent.com/Parth777-andro/Diwali/main/Pic/l28.png",
+    "https://raw.githubusercontent.com/Parth777-andro/New-Yar-2020/main/Pic/l/28.png",
 
-      "https://raw.githubusercontent.com/Parth777-andro/Diwali/main/Pic/l29.png",
-	  "https://raw.githubusercontent.com/Parth777-andro/Diwali/main/Pic/l30.png",
-    "https://raw.githubusercontent.com/Parth777-andro/Diwali/main/Pic/l31.png",
-      "https://raw.githubusercontent.com/Parth777-andro/Diwali/main/Pic/l32.png",
-      "https://raw.githubusercontent.com/Parth777-andro/Diwali/main/Pic/l33.png",
+      "https://raw.githubusercontent.com/Parth777-andro/New-Yar-2020/main/Pic/l/29.png",
+	  "https://raw.githubusercontent.com/Parth777-andro/New-Yar-2020/main/Pic/l/30.png",
+    "https://raw.githubusercontent.com/Parth777-andro/New-Yar-2020/main/Pic/l/31.png",
+      "https://raw.githubusercontent.com/Parth777-andro/New-Yar-2020/main/Pic/l/32.png",
+      "https://raw.githubusercontent.com/Parth777-andro/New-Yar-2020/main/Pic/l/33.png",
 
-    "https://raw.githubusercontent.com/Parth777-andro/Diwali/main/Pic/l34.png",
+    "https://raw.githubusercontent.com/Parth777-andro/New-Yar-2020/main/Pic/l/34.png",
 
-      "https://raw.githubusercontent.com/Parth777-andro/Diwali/main/Pic/l35.png",
+      "https://raw.githubusercontent.com/Parth777-andro/New-Yar-2020/main/Pic/l/35.png",
 
 
-    "https://raw.githubusercontent.com/Parth777-andro/Diwali/main/Pic/l36.png",
+    "https://raw.githubusercontent.com/Parth777-andro/New-Yar-2020/main/Pic/l/36.png",
 
-      "https://raw.githubusercontent.com/Parth777-andro/Diwali/main/Pic/l37.png",
+      "https://raw.githubusercontent.com/Parth777-andro/New-Yar-2020/main/Pic/l/37.png",
 
-      "https://raw.githubusercontent.com/Parth777-andro/Diwali/main/Pic/l38.png",
+      "https://raw.githubusercontent.com/Parth777-andro/New-Yar-2020/main/Pic/l/38.png",
 
-    "https://raw.githubusercontent.com/Parth777-andro/Diwali/main/Pic/l39.png",
+    "https://raw.githubusercontent.com/Parth777-andro/New-Yar-2020/main/Pic/l/39.png",
 
-      "https://raw.githubusercontent.com/Parth777-andro/Diwali/main/Pic/l40.png",
-
-      "https://raw.githubusercontent.com/Parth777-andro/Diwali/main/Pic/l41.png",
-
-    "https://raw.githubusercontent.com/Parth777-andro/Diwali/main/Pic/l42.png",
-
-      "https://raw.githubusercontent.com/Parth777-andro/Diwali/main/Pic/l43.png",
-	   "https://raw.githubusercontent.com/Parth777-andro/Diwali/main/Pic/l44.png",
-	  
-      "https://raw.githubusercontent.com/Parth777-andro/Diwali/main/Pic/l45.png",
-
-      "https://raw.githubusercontent.com/Parth777-andro/Diwali/main/Pic/l46.png",
-
-    "https://raw.githubusercontent.com/Parth777-andro/Diwali/main/Pic/l47.png",
-
-      "https://raw.githubusercontent.com/Parth777-andro/Diwali/main/Pic/l48.png",
-
-      "https://raw.githubusercontent.com/Parth777-andro/Diwali/main/Pic/l49.png",
-
-    "https://raw.githubusercontent.com/Parth777-andro/Diwali/main/Pic/l50.png",
-
-      "https://raw.githubusercontent.com/Parth777-andro/Diwali/main/Pic/l51.png",
-	  "https://raw.githubusercontent.com/Parth777-andro/Diwali/main/Pic/l52.png",
-    "https://raw.githubusercontent.com/Parth777-andro/Diwali/main/Pic/l53.png",
-      "https://raw.githubusercontent.com/Parth777-andro/Diwali/main/Pic/l54.png",
-      "https://raw.githubusercontent.com/Parth777-andro/Diwali/main/Pic/l55.png",
-
-    "https://raw.githubusercontent.com/Parth777-andro/Diwali/main/Pic/l56.png",
-
-      "https://raw.githubusercontent.com/Parth777-andro/Diwali/main/Pic/l57.png",
-
-    "https://raw.githubusercontent.com/Parth777-andro/Diwali/main/Pic/l58.png",
-
-      "https://raw.githubusercontent.com/Parth777-andro/Diwali/main/Pic/l59.png",
-
-      "https://raw.githubusercontent.com/Parth777-andro/Diwali/main/Pic/l60.png",
-
-    "https://raw.githubusercontent.com/Parth777-andro/Diwali/main/Pic/l61.png",
-
-      "https://raw.githubusercontent.com/Parth777-andro/Diwali/main/Pic/l62.png",
-
-      "https://raw.githubusercontent.com/Parth777-andro/Diwali/main/Pic/l63.png",
-
-    "https://raw.githubusercontent.com/Parth777-andro/Diwali/main/Pic/l64.png",
-	 "https://raw.githubusercontent.com/Parth777-andro/Diwali/main/Pic/l65.png",
-
-      "https://raw.githubusercontent.com/Parth777-andro/Diwali/main/Pic/l66.png",
-
-    "https://raw.githubusercontent.com/Parth777-andro/Diwali/main/Pic/l67.png",
-
-      "https://raw.githubusercontent.com/Parth777-andro/Diwali/main/Pic/l68.png",
-
-      "https://raw.githubusercontent.com/Parth777-andro/Diwali/main/Pic/l69.png",
-
-    "https://raw.githubusercontent.com/Parth777-andro/Diwali/main/Pic/l70.png",
-
-      "https://raw.githubusercontent.com/Parth777-andro/Diwali/main/Pic/l71.png",
-
-      "https://raw.githubusercontent.com/Parth777-andro/Diwali/main/Pic/l72.png",
-
-    "https://raw.githubusercontent.com/Parth777-andro/Diwali/main/Pic/l73.png",
-	"https://raw.githubusercontent.com/Parth777-andro/Diwali/main/Pic/l74.png",
-
-      "https://raw.githubusercontent.com/Parth777-andro/Diwali/main/Pic/l75.png",
-
-      "https://raw.githubusercontent.com/Parth777-andro/Diwali/main/Pic/l76.png",
-
-    "https://raw.githubusercontent.com/Parth777-andro/Diwali/main/Pic/l77.png",
-
-      "https://raw.githubusercontent.com/Parth777-andro/Diwali/main/Pic/l78.png",
-
-      "https://raw.githubusercontent.com/Parth777-andro/Diwali/main/Pic/l79.png",
-
-    "https://raw.githubusercontent.com/Parth777-andro/Diwali/main/Pic/l80.png",
-	    "https://raw.githubusercontent.com/Parth777-andro/Diwali/main/Pic/l81.png"
-       
+      "https://raw.githubusercontent.com/Parth777-andro/New-Yar-2020/main/Pic/l/40.png"
        
     
     ]
