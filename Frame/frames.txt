@@ -96,7 +96,7 @@
       "https://raw.githubusercontent.com/Parth777-andro/New-Yar-2020/main/Pic/57.png",
     "https://raw.githubusercontent.com/Parth777-andro/New-Yar-2020/main/Pic/58.png",
 
-      "https://raw.githubusercontent.com/Parth777-andro/New-Yar-2020/main/Pic/59.png".
+      "https://raw.githubusercontent.com/Parth777-andro/New-Yar-2020/main/Pic/59.png"
 	  
 	  ],
   "landscape":[
